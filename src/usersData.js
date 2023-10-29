@@ -2,7 +2,7 @@ export const usersData = [
   {
     name: "Suresh",
     about:
-      "Full-stack web developer and teacher at Udemy.com. When not coding or preparing a course. I like to play board games, to cook (and eat), or to just enjoy the Indian sun on my house roof.",
+      "Full-stack web developer. Created around 4 games in the Unity game engine. I like to play Badminton, table tennis, and cycling.",
     imagePath: "images/suresh-profile.png",
     imageName: "suresh-profile",
     skillList: [
